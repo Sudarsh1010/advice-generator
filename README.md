@@ -19,8 +19,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Sudarsh1010/)
-- Live Site URL: [Rating Component]()
+- Solution URL: [Github](https://github.com/Sudarsh1010/advice-generator)
+- Live Site URL: [Rating Component](https://advice-generator-frontendmentor.netlify.app/)
 
 ## My process
 
